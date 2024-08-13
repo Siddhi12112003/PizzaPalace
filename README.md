@@ -1,4 +1,4 @@
-## BENS-PIZZA 
+## PizzaPalace
 BEN'S PIZZA: DATABASE DESIGN, SQL, DATA VISUALIZATION.
 ##
 Overview
